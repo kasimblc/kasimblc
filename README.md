@@ -1,4 +1,5 @@
-# Hi 👋, I'm Kasım
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=(∩⌣̀_⌣́)HELLO!!&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+# I'm Kasım
 
 Welcome to my GitHub profile! I'm passionate about data analysis, cloud computing, DevOps, game development, and automation. Here you'll find projects that highlight my skills across these fields, from machine learning to game design. Feel free to explore my work and connect with me.
 
