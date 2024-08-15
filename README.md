@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 - **Description**: Developed as part of the Kodluyoruz Bootcamp with my team. This project includes a game where I contributed to level design and mechanics.
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasimblc" alt="kasimblc" /></a> </p>
 
 ## Contact Me
 
@@ -56,6 +55,4 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 </p>
 
 - 📧 **Email**: [kasimbolucu@gmail.com](mailto:kasimbolucu@gmail.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/kasimbolucu](https://linkedin.com/in/kasimbolucu)
 - 🐙 **GitHub**: [github.com/kasimblc](https://github.com/kasimblc)
-- 📸 **Instagram**: [instagram.com/kasimbolucu](https://instagram.com/kasimbolucu)
