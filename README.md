@@ -46,10 +46,3 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 - **Description**: Developed as part of the Kodluyoruz Bootcamp with my team. This project includes a game where I contributed to level design and mechanics.
 
 ---
-
-## Contact Me
-
-<p align="left">
-<a href="https://linkedin.com/in/kasimbolucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasimbolucu" height="30" width="40" /></a>
-<a href="https://instagram.com/kasimbolucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasimbolucu" height="30" width="40" /></a>
-</p>
