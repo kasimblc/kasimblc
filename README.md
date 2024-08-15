@@ -1,8 +1,9 @@
-# Kasım B.
+# Hi 👋, I'm Kasım
 
 Welcome to my GitHub profile! I'm passionate about data analysis, cloud computing, DevOps, game development, and automation. Here you'll find projects that highlight my skills across these fields, from machine learning to game design. Feel free to explore my work and connect with me.
 
 ## Technologies & Skills
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 - 💻 **Languages**: C#, Python, SQL, Lua, JavaScript
 - ☁️ **Cloud**: Azure, Docker, Kubernetes
@@ -13,6 +14,7 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 - 🐧 **Operating Systems**: Linux (Ubuntu, CentOS, Mint, Debian), Windows
 - 🌐 **Web Development**: HTML, CSS, JavaScript
 - 🗃️ **Automation Tools**: Selenium, Tinker
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasimblc&show_icons=true&locale=en&layout=compact" alt="kasimblc" /></p>
 
 ---
 
@@ -43,8 +45,16 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 - **Description**: Developed as part of the Kodluyoruz Bootcamp with my team. This project includes a game where I contributed to level design and mechanics.
 
 ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasimblc" alt="kasimblc" /></a> </p>
 
 ## Contact Me
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kasimbolucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasimbolucu" height="30" width="40" /></a>
+<a href="https://instagram.com/kasimbolucu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kasimbolucu" height="30" width="40" /></a>
+</p>
+
 - 📧 **Email**: [kasimbolucu@gmail.com](mailto:kasimbolucu@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/kasimbolucu](https://linkedin.com/in/kasimbolucu)
 - 🐙 **GitHub**: [github.com/kasimblc](https://github.com/kasimblc)
