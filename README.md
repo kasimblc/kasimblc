@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm passionate about data analysis, cloud computin
 - 📊 **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - 🐧 **Operating Systems**: Linux (Ubuntu, CentOS, Debian...), Windows
 - 🗃️ **Automation and Web Scraping Tools**: Selenium, Playwright, Beautiful Soup, Requests-HTML 
-- 🌐 **Web Development**: HTML, CSS, JavaScript
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasimblc&show_icons=true&locale=en&layout=compact" alt="kasimblc" /></p>
 
 ---
